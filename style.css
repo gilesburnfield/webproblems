@@ -1,0 +1,25 @@
+
+body {
+	background-color:#CCCCCC;
+	font-family: arial, sans-serif;
+}
+
+.header {
+	width: 100%;
+	margin: 0 auto;
+	height: 80 px;
+	background-colour: #660000;
+	text-align: centre;
+	position: fixed;
+	color: #000040;
+
+}
+
+.content {
+	width: 20 px;
+	height: 20 px;
+	background-color: #990000
+}
+
+
+
